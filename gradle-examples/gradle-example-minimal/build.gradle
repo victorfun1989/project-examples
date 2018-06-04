@@ -26,7 +26,7 @@ buildscript {
 allprojects {
     repositories {
         maven {
-            url "http://localhost:8081/artifactory/jcenter"
+            url "http://localhost:9081/artifactory/jcenter"
         }
     }
 }
